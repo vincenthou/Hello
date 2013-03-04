@@ -7,6 +7,6 @@ Hello
 [text](http://www.baidu.com)
 ```
 function test() {
-    alert('hello')
+    alert('qello')
 }
 ```
