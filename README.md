@@ -17,3 +17,7 @@ function test() {
   <dt>Easier to use</dt>
   <dd>We've changed the product so that it's much easier to use!</dd>
 </dl>
+
+- [x] task1
+- [x] task2
+- [ ] task3
