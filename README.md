@@ -24,3 +24,11 @@ function test() {
 - 
 blame with quote
 > This not what is expected.
+
+1. In Ruby you can map like this:
+
+        ['a', 'b'].map { |x| x.uppercase }
+
+2. In Rails, you can do a shortcut:
+
+        ['a', 'b'].map(&:uppercase)
