@@ -19,11 +19,11 @@ function test() {
 </dl>
 
 - [x] task1
-- [] task2
-- [] task3
-- 
+- [x] task2
+- [ ] task3
+
 blame with quote
-> This not what is expected.
+> This is not what is expected.
 
 1. In Ruby you can map like this:
 
