@@ -32,3 +32,12 @@ blame with quote
 2. In Rails, you can do a shortcut:
 
         ['a', 'b'].map(&:uppercase)
+
+-------------------------------
+		
+links:
+search engine:		
+[Google] [1] and [Baidu] [2]
+
+  [1]: http://google.com/        "Google"
+  [2]: http://www.baidu.com/  "Baidu Home"
