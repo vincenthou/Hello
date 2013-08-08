@@ -1,4 +1,4 @@
-Hello
+Hello [![Build Status](https://secure.travis-ci.org/emberjs/ember.js.png?branch=master)](http://travis-ci.org/emberjs/ember.js)
 =====
 # h1
 ## h2
